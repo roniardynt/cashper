@@ -5,7 +5,7 @@
 
 ### 🏠 [Homepage](https://evl.pink/cashper)
 
-### ✨ [Demo](cspr.evl.pink)
+### ✨ [Demo](https://cspr.evl.pink)
 
 ## Install
 
